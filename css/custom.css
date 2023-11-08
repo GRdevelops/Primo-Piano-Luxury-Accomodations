@@ -1,0 +1,52 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+
+
+
+.container_widget {
+    background-color: antiquewhite;
+    width: 300px;
+}
+
+
+.box {
+    border: 6px solid transparent;
+    color: #333;
+    transition: border 300ms ease-out;
+}
+
+.box:hover {
+    border: 6px solid antiquewhite;
+}
+
+.box .visita {
+    text-decoration: none;
+    transition: text-decoration 0.5s ease-in;
+
+}
+
+.box:hover .visita{
+    text-decoration: underline;
+}
+
+.visita {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: #978667;
+
+}
+
+
+.visita i {
+    font-size: 1.5em;
+}
+
+
+
+svg {
+  width: 65px;
+  height: 65px;
+  fill: #978667;
+}

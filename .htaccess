@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+</IfModule>
+
+
+Redirect 301 /camere https://www.primopianovieste.it/
+Redirect 301 /camere/vento https://www.primopianovieste.it/vento
+Redirect 301 /camere/sole https://www.primopianovieste.it/sole
+Redirect 301 /camere/mare https://www.primopianovieste.it/mare
+Redirect 301 /location https://www.primopianovieste.it
+Redirect 301 /la-nostra-filosofia https://www.primopianovieste.it
+Redirect 301 /contatti https://www.primopianovieste.it
