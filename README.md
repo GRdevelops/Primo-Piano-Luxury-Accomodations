@@ -4,7 +4,7 @@ PrimoPiano Luxury Accommodations is an accommodation rental business in Vieste. 
 
 Seeing the visual improvement from the previous website and the satisfaction of my client was very satisfying to me.
 
-Challenges: Hosting and migration. My cousin, who is an expert in IT communication, helped me with making a .htacces file with the 301 redirect links. We then created a backup and uploaded the new files. The video on the homepage, which is a beautiful video shot by my uncle, was initially too heavy and the loading times were not good, especially on mobile. So I had to find a way to make the file lighter while keeping an acceptable degree of quality. That’s where I learned about video compression, how videos work on a website along with webp format, accessibility and more performance optimization.
+Challenges: Hosting and migration. With the help of my cousin, who is an expert in IT communication, I set up a .htacces file with the 301 redirect links. I then created a backup and uploaded the new files on the hosting platform. The video on the homepage, which is a beautiful video shot by my uncle, was initially too heavy and the loading times were not good, especially on mobile. So I had to find a way to make the file lighter while keeping an acceptable degree of quality. That’s where I learned about video compression, how videos work on a website along with webp format, accessibility and more performance optimization.
 
 ## Deployment
 This website is live at https://www.primopianovieste.it/
